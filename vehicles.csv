@@ -1,0 +1,692 @@
+﻿STATISTIC Label,Month,Taxation_Class,UNIT,VALUE
+Vehicles Licensed for the First Time,2019M01,All_Vehicles,Number,36756
+Vehicles Licensed for the First Time,2019M01,New_Vehicles,Number,26374
+Vehicles Licensed for the First Time,2019M01,New_Private_Cars,Number,22279
+Vehicles Licensed for the First Time,2019M01,New Goods Vehicles,Number,2690
+Vehicles Licensed for the First Time,2019M01,New_Tractors,Number,292
+Vehicles Licensed for the First Time,2019M01,New Motor_Cycles,Number,166
+Vehicles Licensed for the First Time,2019M01,New_Exempt_Vehicles,Number,772
+Vehicles Licensed for the First Time,2019M01,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,175
+Vehicles Licensed for the First Time,2019M01,Secondhand_Vehicles,Number,10382
+Vehicles Licensed for the First Time,2019M01,Secondhand_Private_Cars,Number,8131
+Vehicles Licensed for the First Time,2019M01,Secondhand_Goods_Vehicles,Number,1313
+Vehicles Licensed for the First Time,2019M01,Secondhand_Tractors,Number,227
+Vehicles Licensed for the First Time,2019M01,Secondhand_Other_Vehicles,Number,472
+Vehicles Licensed for the First Time,2019M01,Secondhand_Motor_Cycles,Number,239
+Vehicles Licensed for the First Time,2019M02,All_Vehicles,Number,28921
+Vehicles Licensed for the First Time,2019M02,New_Vehicles,Number,18171
+Vehicles Licensed for the First Time,2019M02,New_Private_Cars,Number,14178
+Vehicles Licensed for the First Time,2019M02,New Goods Vehicles,Number,2736
+Vehicles Licensed for the First Time,2019M02,New_Tractors,Number,198
+Vehicles Licensed for the First Time,2019M02,New Motor_Cycles,Number,153
+Vehicles Licensed for the First Time,2019M02,New_Exempt_Vehicles,Number,742
+Vehicles Licensed for the First Time,2019M02,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,164
+Vehicles Licensed for the First Time,2019M02,Secondhand_Vehicles,Number,10750
+Vehicles Licensed for the First Time,2019M02,Secondhand_Private_Cars,Number,8674
+Vehicles Licensed for the First Time,2019M02,Secondhand_Goods_Vehicles,Number,1203
+Vehicles Licensed for the First Time,2019M02,Secondhand_Tractors,Number,207
+Vehicles Licensed for the First Time,2019M02,Secondhand_Other_Vehicles,Number,436
+Vehicles Licensed for the First Time,2019M02,Secondhand_Motor_Cycles,Number,230
+Vehicles Licensed for the First Time,2019M03,All_Vehicles,Number,29547
+Vehicles Licensed for the First Time,2019M03,New_Vehicles,Number,18144
+Vehicles Licensed for the First Time,2019M03,New_Private_Cars,Number,14404
+Vehicles Licensed for the First Time,2019M03,New Goods Vehicles,Number,2505
+Vehicles Licensed for the First Time,2019M03,New_Tractors,Number,231
+Vehicles Licensed for the First Time,2019M03,New Motor_Cycles,Number,194
+Vehicles Licensed for the First Time,2019M03,New_Exempt_Vehicles,Number,661
+Vehicles Licensed for the First Time,2019M03,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,149
+Vehicles Licensed for the First Time,2019M03,Secondhand_Vehicles,Number,11403
+Vehicles Licensed for the First Time,2019M03,Secondhand_Private_Cars,Number,9101
+Vehicles Licensed for the First Time,2019M03,Secondhand_Goods_Vehicles,Number,1219
+Vehicles Licensed for the First Time,2019M03,Secondhand_Tractors,Number,220
+Vehicles Licensed for the First Time,2019M03,Secondhand_Other_Vehicles,Number,556
+Vehicles Licensed for the First Time,2019M03,Secondhand_Motor_Cycles,Number,307
+Vehicles Licensed for the First Time,2019M04,All_Vehicles,Number,28603
+Vehicles Licensed for the First Time,2019M04,New_Vehicles,Number,17339
+Vehicles Licensed for the First Time,2019M04,New_Private_Cars,Number,13794
+Vehicles Licensed for the First Time,2019M04,New Goods Vehicles,Number,2334
+Vehicles Licensed for the First Time,2019M04,New_Tractors,Number,221
+Vehicles Licensed for the First Time,2019M04,New Motor_Cycles,Number,192
+Vehicles Licensed for the First Time,2019M04,New_Exempt_Vehicles,Number,585
+Vehicles Licensed for the First Time,2019M04,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,213
+Vehicles Licensed for the First Time,2019M04,Secondhand_Vehicles,Number,11264
+Vehicles Licensed for the First Time,2019M04,Secondhand_Private_Cars,Number,8728
+Vehicles Licensed for the First Time,2019M04,Secondhand_Goods_Vehicles,Number,1334
+Vehicles Licensed for the First Time,2019M04,Secondhand_Tractors,Number,232
+Vehicles Licensed for the First Time,2019M04,Secondhand_Other_Vehicles,Number,604
+Vehicles Licensed for the First Time,2019M04,Secondhand_Motor_Cycles,Number,366
+Vehicles Licensed for the First Time,2019M05,All_Vehicles,Number,24783
+Vehicles Licensed for the First Time,2019M05,New_Vehicles,Number,12863
+Vehicles Licensed for the First Time,2019M05,New_Private_Cars,Number,9126
+Vehicles Licensed for the First Time,2019M05,New Goods Vehicles,Number,2514
+Vehicles Licensed for the First Time,2019M05,New_Tractors,Number,264
+Vehicles Licensed for the First Time,2019M05,New Motor_Cycles,Number,214
+Vehicles Licensed for the First Time,2019M05,New_Exempt_Vehicles,Number,491
+Vehicles Licensed for the First Time,2019M05,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,254
+Vehicles Licensed for the First Time,2019M05,Secondhand_Vehicles,Number,11920
+Vehicles Licensed for the First Time,2019M05,Secondhand_Private_Cars,Number,9062
+Vehicles Licensed for the First Time,2019M05,Secondhand_Goods_Vehicles,Number,1385
+Vehicles Licensed for the First Time,2019M05,Secondhand_Tractors,Number,295
+Vehicles Licensed for the First Time,2019M05,Secondhand_Other_Vehicles,Number,722
+Vehicles Licensed for the First Time,2019M05,Secondhand_Motor_Cycles,Number,456
+Vehicles Licensed for the First Time,2019M06,All_Vehicles,Number,16471
+Vehicles Licensed for the First Time,2019M06,New_Vehicles,Number,6078
+Vehicles Licensed for the First Time,2019M06,New_Private_Cars,Number,3858
+Vehicles Licensed for the First Time,2019M06,New Goods Vehicles,Number,1526
+Vehicles Licensed for the First Time,2019M06,New_Tractors,Number,155
+Vehicles Licensed for the First Time,2019M06,New Motor_Cycles,Number,143
+Vehicles Licensed for the First Time,2019M06,New_Exempt_Vehicles,Number,208
+Vehicles Licensed for the First Time,2019M06,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,188
+Vehicles Licensed for the First Time,2019M06,Secondhand_Vehicles,Number,10393
+Vehicles Licensed for the First Time,2019M06,Secondhand_Private_Cars,Number,7998
+Vehicles Licensed for the First Time,2019M06,Secondhand_Goods_Vehicles,Number,1187
+Vehicles Licensed for the First Time,2019M06,Secondhand_Tractors,Number,223
+Vehicles Licensed for the First Time,2019M06,Secondhand_Other_Vehicles,Number,622
+Vehicles Licensed for the First Time,2019M06,Secondhand_Motor_Cycles,Number,363
+Vehicles Licensed for the First Time,2019M07,All_Vehicles,Number,34829
+Vehicles Licensed for the First Time,2019M07,New_Vehicles,Number,23054
+Vehicles Licensed for the First Time,2019M07,New_Private_Cars,Number,18741
+Vehicles Licensed for the First Time,2019M07,New Goods Vehicles,Number,2736
+Vehicles Licensed for the First Time,2019M07,New_Tractors,Number,244
+Vehicles Licensed for the First Time,2019M07,New Motor_Cycles,Number,222
+Vehicles Licensed for the First Time,2019M07,New_Exempt_Vehicles,Number,915
+Vehicles Licensed for the First Time,2019M07,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,196
+Vehicles Licensed for the First Time,2019M07,Secondhand_Vehicles,Number,11775
+Vehicles Licensed for the First Time,2019M07,Secondhand_Private_Cars,Number,9203
+Vehicles Licensed for the First Time,2019M07,Secondhand_Goods_Vehicles,Number,1339
+Vehicles Licensed for the First Time,2019M07,Secondhand_Tractors,Number,243
+Vehicles Licensed for the First Time,2019M07,Secondhand_Other_Vehicles,Number,606
+Vehicles Licensed for the First Time,2019M07,Secondhand_Motor_Cycles,Number,384
+Vehicles Licensed for the First Time,2019M08,All_Vehicles,Number,22342
+Vehicles Licensed for the First Time,2019M08,New_Vehicles,Number,10749
+Vehicles Licensed for the First Time,2019M08,New_Private_Cars,Number,7202
+Vehicles Licensed for the First Time,2019M08,New Goods Vehicles,Number,2499
+Vehicles Licensed for the First Time,2019M08,New_Tractors,Number,179
+Vehicles Licensed for the First Time,2019M08,New Motor_Cycles,Number,180
+Vehicles Licensed for the First Time,2019M08,New_Exempt_Vehicles,Number,560
+Vehicles Licensed for the First Time,2019M08,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,129
+Vehicles Licensed for the First Time,2019M08,Secondhand_Vehicles,Number,11593
+Vehicles Licensed for the First Time,2019M08,Secondhand_Private_Cars,Number,9320
+Vehicles Licensed for the First Time,2019M08,Secondhand_Goods_Vehicles,Number,1194
+Vehicles Licensed for the First Time,2019M08,Secondhand_Tractors,Number,201
+Vehicles Licensed for the First Time,2019M08,Secondhand_Other_Vehicles,Number,571
+Vehicles Licensed for the First Time,2019M08,Secondhand_Motor_Cycles,Number,307
+Vehicles Licensed for the First Time,2019M09,All_Vehicles,Number,18853
+Vehicles Licensed for the First Time,2019M09,New_Vehicles,Number,6628
+Vehicles Licensed for the First Time,2019M09,New_Private_Cars,Number,4104
+Vehicles Licensed for the First Time,2019M09,New Goods Vehicles,Number,1692
+Vehicles Licensed for the First Time,2019M09,New_Tractors,Number,118
+Vehicles Licensed for the First Time,2019M09,New Motor_Cycles,Number,140
+Vehicles Licensed for the First Time,2019M09,New_Exempt_Vehicles,Number,454
+Vehicles Licensed for the First Time,2019M09,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,120
+Vehicles Licensed for the First Time,2019M09,Secondhand_Vehicles,Number,12225
+Vehicles Licensed for the First Time,2019M09,Secondhand_Private_Cars,Number,9868
+Vehicles Licensed for the First Time,2019M09,Secondhand_Goods_Vehicles,Number,1271
+Vehicles Licensed for the First Time,2019M09,Secondhand_Tractors,Number,177
+Vehicles Licensed for the First Time,2019M09,Secondhand_Other_Vehicles,Number,593
+Vehicles Licensed for the First Time,2019M09,Secondhand_Motor_Cycles,Number,316
+Vehicles Licensed for the First Time,2019M10,All_Vehicles,Number,18797
+Vehicles Licensed for the First Time,2019M10,New_Vehicles,Number,5453
+Vehicles Licensed for the First Time,2019M10,New_Private_Cars,Number,3214
+Vehicles Licensed for the First Time,2019M10,New Goods Vehicles,Number,1617
+Vehicles Licensed for the First Time,2019M10,New_Tractors,Number,94
+Vehicles Licensed for the First Time,2019M10,New Motor_Cycles,Number,115
+Vehicles Licensed for the First Time,2019M10,New_Exempt_Vehicles,Number,325
+Vehicles Licensed for the First Time,2019M10,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,88
+Vehicles Licensed for the First Time,2019M10,Secondhand_Vehicles,Number,13344
+Vehicles Licensed for the First Time,2019M10,Secondhand_Private_Cars,Number,10941
+Vehicles Licensed for the First Time,2019M10,Secondhand_Goods_Vehicles,Number,1322
+Vehicles Licensed for the First Time,2019M10,Secondhand_Tractors,Number,192
+Vehicles Licensed for the First Time,2019M10,Secondhand_Other_Vehicles,Number,632
+Vehicles Licensed for the First Time,2019M10,Secondhand_Motor_Cycles,Number,257
+Vehicles Licensed for the First Time,2019M11,All_Vehicles,Number,15682
+Vehicles Licensed for the First Time,2019M11,New_Vehicles,Number,3384
+Vehicles Licensed for the First Time,2019M11,New_Private_Cars,Number,1676
+Vehicles Licensed for the First Time,2019M11,New Goods Vehicles,Number,1264
+Vehicles Licensed for the First Time,2019M11,New_Tractors,Number,93
+Vehicles Licensed for the First Time,2019M11,New Motor_Cycles,Number,87
+Vehicles Licensed for the First Time,2019M11,New_Exempt_Vehicles,Number,176
+Vehicles Licensed for the First Time,2019M11,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,88
+Vehicles Licensed for the First Time,2019M11,Secondhand_Vehicles,Number,12298
+Vehicles Licensed for the First Time,2019M11,Secondhand_Private_Cars,Number,9874
+Vehicles Licensed for the First Time,2019M11,Secondhand_Goods_Vehicles,Number,1286
+Vehicles Licensed for the First Time,2019M11,Secondhand_Tractors,Number,228
+Vehicles Licensed for the First Time,2019M11,Secondhand_Other_Vehicles,Number,640
+Vehicles Licensed for the First Time,2019M11,Secondhand_Motor_Cycles,Number,270
+Vehicles Licensed for the First Time,2019M12,All_Vehicles,Number,11360
+Vehicles Licensed for the First Time,2019M12,New_Vehicles,Number,1511
+Vehicles Licensed for the First Time,2019M12,New_Private_Cars,Number,729
+Vehicles Licensed for the First Time,2019M12,New Goods Vehicles,Number,532
+Vehicles Licensed for the First Time,2019M12,New_Tractors,Number,48
+Vehicles Licensed for the First Time,2019M12,New Motor_Cycles,Number,42
+Vehicles Licensed for the First Time,2019M12,New_Exempt_Vehicles,Number,87
+Vehicles Licensed for the First Time,2019M12,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,73
+Vehicles Licensed for the First Time,2019M12,Secondhand_Vehicles,Number,9849
+Vehicles Licensed for the First Time,2019M12,Secondhand_Private_Cars,Number,7995
+Vehicles Licensed for the First Time,2019M12,Secondhand_Goods_Vehicles,Number,1099
+Vehicles Licensed for the First Time,2019M12,Secondhand_Tractors,Number,150
+Vehicles Licensed for the First Time,2019M12,Secondhand_Other_Vehicles,Number,452
+Vehicles Licensed for the First Time,2019M12,Secondhand_Motor_Cycles,Number,153
+,,Regs_For_Year,,573888
+Vehicles Licensed for the First Time,2020M01,All_Vehicles,Number,34577
+Vehicles Licensed for the First Time,2020M01,New_Vehicles,Number,24545
+Vehicles Licensed for the First Time,2020M01,New_Private_Cars,Number,20665
+Vehicles Licensed for the First Time,2020M01,New Goods Vehicles,Number,2544
+Vehicles Licensed for the First Time,2020M01,New_Tractors,Number,247
+Vehicles Licensed for the First Time,2020M01,New Motor_Cycles,Number,163
+Vehicles Licensed for the First Time,2020M01,New_Exempt_Vehicles,Number,751
+Vehicles Licensed for the First Time,2020M01,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,175
+Vehicles Licensed for the First Time,2020M01,Secondhand_Vehicles,Number,10032
+Vehicles Licensed for the First Time,2020M01,Secondhand_Private_Cars,Number,7683
+Vehicles Licensed for the First Time,2020M01,Secondhand_Goods_Vehicles,Number,1302
+Vehicles Licensed for the First Time,2020M01,Secondhand_Tractors,Number,225
+Vehicles Licensed for the First Time,2020M01,Secondhand_Other_Vehicles,Number,539
+Vehicles Licensed for the First Time,2020M01,Secondhand_Motor_Cycles,Number,283
+Vehicles Licensed for the First Time,2020M02,All_Vehicles,Number,26644
+Vehicles Licensed for the First Time,2020M02,New_Vehicles,Number,17285
+Vehicles Licensed for the First Time,2020M02,New_Private_Cars,Number,13263
+Vehicles Licensed for the First Time,2020M02,New Goods Vehicles,Number,2727
+Vehicles Licensed for the First Time,2020M02,New_Tractors,Number,240
+Vehicles Licensed for the First Time,2020M02,New Motor_Cycles,Number,162
+Vehicles Licensed for the First Time,2020M02,New_Exempt_Vehicles,Number,739
+Vehicles Licensed for the First Time,2020M02,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,154
+Vehicles Licensed for the First Time,2020M02,Secondhand_Vehicles,Number,9359
+Vehicles Licensed for the First Time,2020M02,Secondhand_Private_Cars,Number,7087
+Vehicles Licensed for the First Time,2020M02,Secondhand_Goods_Vehicles,Number,1245
+Vehicles Licensed for the First Time,2020M02,Secondhand_Tractors,Number,244
+Vehicles Licensed for the First Time,2020M02,Secondhand_Other_Vehicles,Number,518
+Vehicles Licensed for the First Time,2020M02,Secondhand_Motor_Cycles,Number,265
+Vehicles Licensed for the First Time,2020M03,All_Vehicles,Number,20755
+Vehicles Licensed for the First Time,2020M03,New_Vehicles,Number,13417
+Vehicles Licensed for the First Time,2020M03,New_Private_Cars,Number,10239
+Vehicles Licensed for the First Time,2020M03,New Goods Vehicles,Number,2074
+Vehicles Licensed for the First Time,2020M03,New_Tractors,Number,224
+Vehicles Licensed for the First Time,2020M03,New Motor_Cycles,Number,158
+Vehicles Licensed for the First Time,2020M03,New_Exempt_Vehicles,Number,610
+Vehicles Licensed for the First Time,2020M03,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,112
+Vehicles Licensed for the First Time,2020M03,Secondhand_Vehicles,Number,7338
+Vehicles Licensed for the First Time,2020M03,Secondhand_Private_Cars,Number,5582
+Vehicles Licensed for the First Time,2020M03,Secondhand_Goods_Vehicles,Number,888
+Vehicles Licensed for the First Time,2020M03,Secondhand_Tractors,Number,194
+Vehicles Licensed for the First Time,2020M03,Secondhand_Other_Vehicles,Number,384
+Vehicles Licensed for the First Time,2020M03,Secondhand_Motor_Cycles,Number,290
+Vehicles Licensed for the First Time,2020M04,All_Vehicles,Number,4577
+Vehicles Licensed for the First Time,2020M04,New_Vehicles,Number,2599
+Vehicles Licensed for the First Time,2020M04,New_Private_Cars,Number,1338
+Vehicles Licensed for the First Time,2020M04,New Goods Vehicles,Number,738
+Vehicles Licensed for the First Time,2020M04,New_Tractors,Number,179
+Vehicles Licensed for the First Time,2020M04,New Motor_Cycles,Number,62
+Vehicles Licensed for the First Time,2020M04,New_Exempt_Vehicles,Number,223
+Vehicles Licensed for the First Time,2020M04,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,59
+Vehicles Licensed for the First Time,2020M04,Secondhand_Vehicles,Number,1978
+Vehicles Licensed for the First Time,2020M04,Secondhand_Private_Cars,Number,1321
+Vehicles Licensed for the First Time,2020M04,Secondhand_Goods_Vehicles,Number,307
+Vehicles Licensed for the First Time,2020M04,Secondhand_Tractors,Number,111
+Vehicles Licensed for the First Time,2020M04,Secondhand_Other_Vehicles,Number,127
+Vehicles Licensed for the First Time,2020M04,Secondhand_Motor_Cycles,Number,112
+Vehicles Licensed for the First Time,2020M05,All_Vehicles,Number,4664
+Vehicles Licensed for the First Time,2020M05,New_Vehicles,Number,2831
+Vehicles Licensed for the First Time,2020M05,New_Private_Cars,Number,1490
+Vehicles Licensed for the First Time,2020M05,New Goods Vehicles,Number,744
+Vehicles Licensed for the First Time,2020M05,New_Tractors,Number,198
+Vehicles Licensed for the First Time,2020M05,New Motor_Cycles,Number,86
+Vehicles Licensed for the First Time,2020M05,New_Exempt_Vehicles,Number,279
+Vehicles Licensed for the First Time,2020M05,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,34
+Vehicles Licensed for the First Time,2020M05,Secondhand_Vehicles,Number,1833
+Vehicles Licensed for the First Time,2020M05,Secondhand_Private_Cars,Number,1170
+Vehicles Licensed for the First Time,2020M05,Secondhand_Goods_Vehicles,Number,343
+Vehicles Licensed for the First Time,2020M05,Secondhand_Tractors,Number,122
+Vehicles Licensed for the First Time,2020M05,Secondhand_Other_Vehicles,Number,116
+Vehicles Licensed for the First Time,2020M05,Secondhand_Motor_Cycles,Number,82
+Vehicles Licensed for the First Time,2020M06,All_Vehicles,Number,8240
+Vehicles Licensed for the First Time,2020M06,New_Vehicles,Number,3667
+Vehicles Licensed for the First Time,2020M06,New_Private_Cars,Number,2189
+Vehicles Licensed for the First Time,2020M06,New Goods Vehicles,Number,945
+Vehicles Licensed for the First Time,2020M06,New_Tractors,Number,154
+Vehicles Licensed for the First Time,2020M06,New Motor_Cycles,Number,135
+Vehicles Licensed for the First Time,2020M06,New_Exempt_Vehicles,Number,199
+Vehicles Licensed for the First Time,2020M06,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,45
+Vehicles Licensed for the First Time,2020M06,Secondhand_Vehicles,Number,4573
+Vehicles Licensed for the First Time,2020M06,Secondhand_Private_Cars,Number,3738
+Vehicles Licensed for the First Time,2020M06,Secondhand_Goods_Vehicles,Number,431
+Vehicles Licensed for the First Time,2020M06,Secondhand_Tractors,Number,95
+Vehicles Licensed for the First Time,2020M06,Secondhand_Other_Vehicles,Number,182
+Vehicles Licensed for the First Time,2020M06,Secondhand_Motor_Cycles,Number,127
+Vehicles Licensed for the First Time,2020M07,All_Vehicles,Number,29907
+Vehicles Licensed for the First Time,2020M07,New_Vehicles,Number,19453
+Vehicles Licensed for the First Time,2020M07,New_Private_Cars,Number,15329
+Vehicles Licensed for the First Time,2020M07,New Goods Vehicles,Number,2298
+Vehicles Licensed for the First Time,2020M07,New_Tractors,Number,236
+Vehicles Licensed for the First Time,2020M07,New Motor_Cycles,Number,324
+Vehicles Licensed for the First Time,2020M07,New_Exempt_Vehicles,Number,1129
+Vehicles Licensed for the First Time,2020M07,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,137
+Vehicles Licensed for the First Time,2020M07,Secondhand_Vehicles,Number,10454
+Vehicles Licensed for the First Time,2020M07,Secondhand_Private_Cars,Number,8275
+Vehicles Licensed for the First Time,2020M07,Secondhand_Goods_Vehicles,Number,1048
+Vehicles Licensed for the First Time,2020M07,Secondhand_Tractors,Number,236
+Vehicles Licensed for the First Time,2020M07,Secondhand_Other_Vehicles,Number,480
+Vehicles Licensed for the First Time,2020M07,Secondhand_Motor_Cycles,Number,415
+Vehicles Licensed for the First Time,2020M08,All_Vehicles,Number,20899
+Vehicles Licensed for the First Time,2020M08,New_Vehicles,Number,10706
+Vehicles Licensed for the First Time,2020M08,New_Private_Cars,Number,7360
+Vehicles Licensed for the First Time,2020M08,New Goods Vehicles,Number,2247
+Vehicles Licensed for the First Time,2020M08,New_Tractors,Number,208
+Vehicles Licensed for the First Time,2020M08,New Motor_Cycles,Number,208
+Vehicles Licensed for the First Time,2020M08,New_Exempt_Vehicles,Number,582
+Vehicles Licensed for the First Time,2020M08,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,101
+Vehicles Licensed for the First Time,2020M08,Secondhand_Vehicles,Number,10193
+Vehicles Licensed for the First Time,2020M08,Secondhand_Private_Cars,Number,8032
+Vehicles Licensed for the First Time,2020M08,Secondhand_Goods_Vehicles,Number,1022
+Vehicles Licensed for the First Time,2020M08,Secondhand_Tractors,Number,257
+Vehicles Licensed for the First Time,2020M08,Secondhand_Other_Vehicles,Number,475
+Vehicles Licensed for the First Time,2020M08,Secondhand_Motor_Cycles,Number,407
+Vehicles Licensed for the First Time,2020M09,All_Vehicles,Number,21050
+Vehicles Licensed for the First Time,2020M09,New_Vehicles,Number,9082
+Vehicles Licensed for the First Time,2020M09,New_Private_Cars,Number,5747
+Vehicles Licensed for the First Time,2020M09,New Goods Vehicles,Number,2421
+Vehicles Licensed for the First Time,2020M09,New_Tractors,Number,177
+Vehicles Licensed for the First Time,2020M09,New Motor_Cycles,Number,163
+Vehicles Licensed for the First Time,2020M09,New_Exempt_Vehicles,Number,454
+Vehicles Licensed for the First Time,2020M09,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,120
+Vehicles Licensed for the First Time,2020M09,Secondhand_Vehicles,Number,11968
+Vehicles Licensed for the First Time,2020M09,Secondhand_Private_Cars,Number,9300
+Vehicles Licensed for the First Time,2020M09,Secondhand_Goods_Vehicles,Number,1315
+Vehicles Licensed for the First Time,2020M09,Secondhand_Tractors,Number,282
+Vehicles Licensed for the First Time,2020M09,Secondhand_Other_Vehicles,Number,620
+Vehicles Licensed for the First Time,2020M09,Secondhand_Motor_Cycles,Number,451
+Vehicles Licensed for the First Time,2020M10,All_Vehicles,Number,19655
+Vehicles Licensed for the First Time,2020M10,New_Vehicles,Number,7461
+Vehicles Licensed for the First Time,2020M10,New_Private_Cars,Number,4189
+Vehicles Licensed for the First Time,2020M10,New Goods Vehicles,Number,2513
+Vehicles Licensed for the First Time,2020M10,New_Tractors,Number,131
+Vehicles Licensed for the First Time,2020M10,New Motor_Cycles,Number,134
+Vehicles Licensed for the First Time,2020M10,New_Exempt_Vehicles,Number,421
+Vehicles Licensed for the First Time,2020M10,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,73
+Vehicles Licensed for the First Time,2020M10,Secondhand_Vehicles,Number,12194
+Vehicles Licensed for the First Time,2020M10,Secondhand_Private_Cars,Number,9543
+Vehicles Licensed for the First Time,2020M10,Secondhand_Goods_Vehicles,Number,1449
+Vehicles Licensed for the First Time,2020M10,Secondhand_Tractors,Number,273
+Vehicles Licensed for the First Time,2020M10,Secondhand_Other_Vehicles,Number,564
+Vehicles Licensed for the First Time,2020M10,Secondhand_Motor_Cycles,Number,365
+Vehicles Licensed for the First Time,2020M11,All_Vehicles,Number,13701
+Vehicles Licensed for the First Time,2020M11,New_Vehicles,Number,3421
+Vehicles Licensed for the First Time,2020M11,New_Private_Cars,Number,1468
+Vehicles Licensed for the First Time,2020M11,New Goods Vehicles,Number,1509
+Vehicles Licensed for the First Time,2020M11,New_Tractors,Number,125
+Vehicles Licensed for the First Time,2020M11,New Motor_Cycles,Number,59
+Vehicles Licensed for the First Time,2020M11,New_Exempt_Vehicles,Number,200
+Vehicles Licensed for the First Time,2020M11,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,60
+Vehicles Licensed for the First Time,2020M11,Secondhand_Vehicles,Number,10280
+Vehicles Licensed for the First Time,2020M11,Secondhand_Private_Cars,Number,7892
+Vehicles Licensed for the First Time,2020M11,Secondhand_Goods_Vehicles,Number,1240
+Vehicles Licensed for the First Time,2020M11,Secondhand_Tractors,Number,303
+Vehicles Licensed for the First Time,2020M11,Secondhand_Other_Vehicles,Number,523
+Vehicles Licensed for the First Time,2020M11,Secondhand_Motor_Cycles,Number,322
+Vehicles Licensed for the First Time,2020M12,All_Vehicles,Number,13317
+Vehicles Licensed for the First Time,2020M12,New_Vehicles,Number,2047
+Vehicles Licensed for the First Time,2020M12,New_Private_Cars,Number,1032
+Vehicles Licensed for the First Time,2020M12,New Goods Vehicles,Number,735
+Vehicles Licensed for the First Time,2020M12,New_Tractors,Number,71
+Vehicles Licensed for the First Time,2020M12,New Motor_Cycles,Number,55
+Vehicles Licensed for the First Time,2020M12,New_Exempt_Vehicles,Number,105
+Vehicles Licensed for the First Time,2020M12,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,49
+Vehicles Licensed for the First Time,2020M12,Secondhand_Vehicles,Number,11270
+Vehicles Licensed for the First Time,2020M12,Secondhand_Private_Cars,Number,8918
+Vehicles Licensed for the First Time,2020M12,Secondhand_Goods_Vehicles,Number,1163
+Vehicles Licensed for the First Time,2020M12,Secondhand_Tractors,Number,306
+Vehicles Licensed for the First Time,2020M12,Secondhand_Other_Vehicles,Number,618
+Vehicles Licensed for the First Time,2020M12,Secondhand_Motor_Cycles,Number,265
+,,Regs_For_Year,,435972
+Vehicles Licensed for the First Time,2021M01,All_Vehicles,Number,29808
+Vehicles Licensed for the First Time,2021M01,New_Vehicles,Number,19518
+Vehicles Licensed for the First Time,2021M01,New_Private_Cars,Number,16948
+Vehicles Licensed for the First Time,2021M01,New Goods Vehicles,Number,1529
+Vehicles Licensed for the First Time,2021M01,New_Tractors,Number,258
+Vehicles Licensed for the First Time,2021M01,New Motor_Cycles,Number,136
+Vehicles Licensed for the First Time,2021M01,New_Exempt_Vehicles,Number,575
+Vehicles Licensed for the First Time,2021M01,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,72
+Vehicles Licensed for the First Time,2021M01,Secondhand_Vehicles,Number,10290
+Vehicles Licensed for the First Time,2021M01,Secondhand_Private_Cars,Number,8126
+Vehicles Licensed for the First Time,2021M01,Secondhand_Goods_Vehicles,Number,960
+Vehicles Licensed for the First Time,2021M01,Secondhand_Tractors,Number,367
+Vehicles Licensed for the First Time,2021M01,Secondhand_Other_Vehicles,Number,536
+Vehicles Licensed for the First Time,2021M01,Secondhand_Motor_Cycles,Number,301
+Vehicles Licensed for the First Time,2021M02,All_Vehicles,Number,24282
+Vehicles Licensed for the First Time,2021M02,New_Vehicles,Number,15209
+Vehicles Licensed for the First Time,2021M02,New_Private_Cars,Number,11672
+Vehicles Licensed for the First Time,2021M02,New Goods Vehicles,Number,2349
+Vehicles Licensed for the First Time,2021M02,New_Tractors,Number,240
+Vehicles Licensed for the First Time,2021M02,New Motor_Cycles,Number,112
+Vehicles Licensed for the First Time,2021M02,New_Exempt_Vehicles,Number,713
+Vehicles Licensed for the First Time,2021M02,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,123
+Vehicles Licensed for the First Time,2021M02,Secondhand_Vehicles,Number,9073
+Vehicles Licensed for the First Time,2021M02,Secondhand_Private_Cars,Number,6679
+Vehicles Licensed for the First Time,2021M02,Secondhand_Goods_Vehicles,Number,1120
+Vehicles Licensed for the First Time,2021M02,Secondhand_Tractors,Number,366
+Vehicles Licensed for the First Time,2021M02,Secondhand_Other_Vehicles,Number,607
+Vehicles Licensed for the First Time,2021M02,Secondhand_Motor_Cycles,Number,301
+Vehicles Licensed for the First Time,2021M03,All_Vehicles,Number,23895
+Vehicles Licensed for the First Time,2021M03,New_Vehicles,Number,14883
+Vehicles Licensed for the First Time,2021M03,New_Private_Cars,Number,10672
+Vehicles Licensed for the First Time,2021M03,New Goods Vehicles,Number,2974
+Vehicles Licensed for the First Time,2021M03,New_Tractors,Number,297
+Vehicles Licensed for the First Time,2021M03,New Motor_Cycles,Number,162
+Vehicles Licensed for the First Time,2021M03,New_Exempt_Vehicles,Number,633
+Vehicles Licensed for the First Time,2021M03,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,145
+Vehicles Licensed for the First Time,2021M03,Secondhand_Vehicles,Number,9012
+Vehicles Licensed for the First Time,2021M03,Secondhand_Private_Cars,Number,6590
+Vehicles Licensed for the First Time,2021M03,Secondhand_Goods_Vehicles,Number,1096
+Vehicles Licensed for the First Time,2021M03,Secondhand_Tractors,Number,355
+Vehicles Licensed for the First Time,2021M03,Secondhand_Other_Vehicles,Number,605
+Vehicles Licensed for the First Time,2021M03,Secondhand_Motor_Cycles,Number,366
+Vehicles Licensed for the First Time,2021M04,All_Vehicles,Number,20357
+Vehicles Licensed for the First Time,2021M04,New_Vehicles,Number,11960
+Vehicles Licensed for the First Time,2021M04,New_Private_Cars,Number,8214
+Vehicles Licensed for the First Time,2021M04,New Goods Vehicles,Number,2536
+Vehicles Licensed for the First Time,2021M04,New_Tractors,Number,224
+Vehicles Licensed for the First Time,2021M04,New Motor_Cycles,Number,220
+Vehicles Licensed for the First Time,2021M04,New_Exempt_Vehicles,Number,544
+Vehicles Licensed for the First Time,2021M04,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,222
+Vehicles Licensed for the First Time,2021M04,Secondhand_Vehicles,Number,8397
+Vehicles Licensed for the First Time,2021M04,Secondhand_Private_Cars,Number,6241
+Vehicles Licensed for the First Time,2021M04,Secondhand_Goods_Vehicles,Number,940
+Vehicles Licensed for the First Time,2021M04,Secondhand_Tractors,Number,294
+Vehicles Licensed for the First Time,2021M04,Secondhand_Other_Vehicles,Number,577
+Vehicles Licensed for the First Time,2021M04,Secondhand_Motor_Cycles,Number,345
+Vehicles Licensed for the First Time,2021M05,All_Vehicles,Number,20112
+Vehicles Licensed for the First Time,2021M05,New_Vehicles,Number,11381
+Vehicles Licensed for the First Time,2021M05,New_Private_Cars,Number,7337
+Vehicles Licensed for the First Time,2021M05,New Goods Vehicles,Number,2953
+Vehicles Licensed for the First Time,2021M05,New_Tractors,Number,266
+Vehicles Licensed for the First Time,2021M05,New Motor_Cycles,Number,262
+Vehicles Licensed for the First Time,2021M05,New_Exempt_Vehicles,Number,429
+Vehicles Licensed for the First Time,2021M05,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,134
+Vehicles Licensed for the First Time,2021M05,Secondhand_Vehicles,Number,8731
+Vehicles Licensed for the First Time,2021M05,Secondhand_Private_Cars,Number,6426
+Vehicles Licensed for the First Time,2021M05,Secondhand_Goods_Vehicles,Number,960
+Vehicles Licensed for the First Time,2021M05,Secondhand_Tractors,Number,361
+Vehicles Licensed for the First Time,2021M05,Secondhand_Other_Vehicles,Number,620
+Vehicles Licensed for the First Time,2021M05,Secondhand_Motor_Cycles,Number,364
+Vehicles Licensed for the First Time,2021M06,All_Vehicles,Number,16420
+Vehicles Licensed for the First Time,2021M06,New_Vehicles,Number,8428
+Vehicles Licensed for the First Time,2021M06,New_Private_Cars,Number,4980
+Vehicles Licensed for the First Time,2021M06,New Goods Vehicles,Number,2664
+Vehicles Licensed for the First Time,2021M06,New_Tractors,Number,180
+Vehicles Licensed for the First Time,2021M06,New Motor_Cycles,Number,216
+Vehicles Licensed for the First Time,2021M06,New_Exempt_Vehicles,Number,235
+Vehicles Licensed for the First Time,2021M06,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,153
+Vehicles Licensed for the First Time,2021M06,Secondhand_Vehicles,Number,7992
+Vehicles Licensed for the First Time,2021M06,Secondhand_Private_Cars,Number,5900
+Vehicles Licensed for the First Time,2021M06,Secondhand_Goods_Vehicles,Number,905
+Vehicles Licensed for the First Time,2021M06,Secondhand_Tractors,Number,274
+Vehicles Licensed for the First Time,2021M06,Secondhand_Other_Vehicles,Number,583
+Vehicles Licensed for the First Time,2021M06,Secondhand_Motor_Cycles,Number,330
+Vehicles Licensed for the First Time,2021M07,All_Vehicles,Number,32149
+Vehicles Licensed for the First Time,2021M07,New_Vehicles,Number,24642
+Vehicles Licensed for the First Time,2021M07,New_Private_Cars,Number,20232
+Vehicles Licensed for the First Time,2021M07,New Goods Vehicles,Number,2707
+Vehicles Licensed for the First Time,2021M07,New_Tractors,Number,243
+Vehicles Licensed for the First Time,2021M07,New Motor_Cycles,Number,344
+Vehicles Licensed for the First Time,2021M07,New_Exempt_Vehicles,Number,952
+Vehicles Licensed for the First Time,2021M07,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,164
+Vehicles Licensed for the First Time,2021M07,Secondhand_Vehicles,Number,7507
+Vehicles Licensed for the First Time,2021M07,Secondhand_Private_Cars,Number,5590
+Vehicles Licensed for the First Time,2021M07,Secondhand_Goods_Vehicles,Number,819
+Vehicles Licensed for the First Time,2021M07,Secondhand_Tractors,Number,245
+Vehicles Licensed for the First Time,2021M07,Secondhand_Other_Vehicles,Number,561
+Vehicles Licensed for the First Time,2021M07,Secondhand_Motor_Cycles,Number,292
+Vehicles Licensed for the First Time,2021M08,All_Vehicles,Number,19525
+Vehicles Licensed for the First Time,2021M08,New_Vehicles,Number,12362
+Vehicles Licensed for the First Time,2021M08,New_Private_Cars,Number,8563
+Vehicles Licensed for the First Time,2021M08,New Goods Vehicles,Number,2618
+Vehicles Licensed for the First Time,2021M08,New_Tractors,Number,210
+Vehicles Licensed for the First Time,2021M08,New Motor_Cycles,Number,272
+Vehicles Licensed for the First Time,2021M08,New_Exempt_Vehicles,Number,566
+Vehicles Licensed for the First Time,2021M08,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,133
+Vehicles Licensed for the First Time,2021M08,Secondhand_Vehicles,Number,7163
+Vehicles Licensed for the First Time,2021M08,Secondhand_Private_Cars,Number,5219
+Vehicles Licensed for the First Time,2021M08,Secondhand_Goods_Vehicles,Number,841
+Vehicles Licensed for the First Time,2021M08,Secondhand_Tractors,Number,239
+Vehicles Licensed for the First Time,2021M08,Secondhand_Other_Vehicles,Number,572
+Vehicles Licensed for the First Time,2021M08,Secondhand_Motor_Cycles,Number,292
+Vehicles Licensed for the First Time,2021M09,All_Vehicles,Number,17458
+Vehicles Licensed for the First Time,2021M09,New_Vehicles,Number,10529
+Vehicles Licensed for the First Time,2021M09,New_Private_Cars,Number,6354
+Vehicles Licensed for the First Time,2021M09,New Goods Vehicles,Number,3109
+Vehicles Licensed for the First Time,2021M09,New_Tractors,Number,193
+Vehicles Licensed for the First Time,2021M09,New Motor_Cycles,Number,240
+Vehicles Licensed for the First Time,2021M09,New_Exempt_Vehicles,Number,448
+Vehicles Licensed for the First Time,2021M09,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,185
+Vehicles Licensed for the First Time,2021M09,Secondhand_Vehicles,Number,6929
+Vehicles Licensed for the First Time,2021M09,Secondhand_Private_Cars,Number,5056
+Vehicles Licensed for the First Time,2021M09,Secondhand_Goods_Vehicles,Number,818
+Vehicles Licensed for the First Time,2021M09,Secondhand_Tractors,Number,222
+Vehicles Licensed for the First Time,2021M09,Secondhand_Other_Vehicles,Number,559
+Vehicles Licensed for the First Time,2021M09,Secondhand_Motor_Cycles,Number,274
+Vehicles Licensed for the First Time,2021M10,All_Vehicles,Number,13445
+Vehicles Licensed for the First Time,2021M10,New_Vehicles,Number,7239
+Vehicles Licensed for the First Time,2021M10,New_Private_Cars,Number,3882
+Vehicles Licensed for the First Time,2021M10,New Goods Vehicles,Number,2550
+Vehicles Licensed for the First Time,2021M10,New_Tractors,Number,163
+Vehicles Licensed for the First Time,2021M10,New Motor_Cycles,Number,192
+Vehicles Licensed for the First Time,2021M10,New_Exempt_Vehicles,Number,295
+Vehicles Licensed for the First Time,2021M10,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,157
+Vehicles Licensed for the First Time,2021M10,Secondhand_Vehicles,Number,6206
+Vehicles Licensed for the First Time,2021M10,Secondhand_Private_Cars,Number,4506
+Vehicles Licensed for the First Time,2021M10,Secondhand_Goods_Vehicles,Number,814
+Vehicles Licensed for the First Time,2021M10,Secondhand_Tractors,Number,204
+Vehicles Licensed for the First Time,2021M10,Secondhand_Other_Vehicles,Number,466
+Vehicles Licensed for the First Time,2021M10,Secondhand_Motor_Cycles,Number,216
+Vehicles Licensed for the First Time,2021M11,All_Vehicles,Number,10476
+Vehicles Licensed for the First Time,2021M11,New_Vehicles,Number,4437
+Vehicles Licensed for the First Time,2021M11,New_Private_Cars,Number,2167
+Vehicles Licensed for the First Time,2021M11,New Goods Vehicles,Number,1701
+Vehicles Licensed for the First Time,2021M11,New_Tractors,Number,131
+Vehicles Licensed for the First Time,2021M11,New Motor_Cycles,Number,124
+Vehicles Licensed for the First Time,2021M11,New_Exempt_Vehicles,Number,161
+Vehicles Licensed for the First Time,2021M11,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,153
+Vehicles Licensed for the First Time,2021M11,Secondhand_Vehicles,Number,6039
+Vehicles Licensed for the First Time,2021M11,Secondhand_Private_Cars,Number,4324
+Vehicles Licensed for the First Time,2021M11,Secondhand_Goods_Vehicles,Number,778
+Vehicles Licensed for the First Time,2021M11,Secondhand_Tractors,Number,218
+Vehicles Licensed for the First Time,2021M11,Secondhand_Other_Vehicles,Number,493
+Vehicles Licensed for the First Time,2021M11,Secondhand_Motor_Cycles,Number,226
+Vehicles Licensed for the First Time,2021M12,All_Vehicles,Number,6410
+Vehicles Licensed for the First Time,2021M12,New_Vehicles,Number,1788
+Vehicles Licensed for the First Time,2021M12,New_Private_Cars,Number,832
+Vehicles Licensed for the First Time,2021M12,New Goods Vehicles,Number,697
+Vehicles Licensed for the First Time,2021M12,New_Tractors,Number,86
+Vehicles Licensed for the First Time,2021M12,New Motor_Cycles,Number,55
+Vehicles Licensed for the First Time,2021M12,New_Exempt_Vehicles,Number,53
+Vehicles Licensed for the First Time,2021M12,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,65
+Vehicles Licensed for the First Time,2021M12,Secondhand_Vehicles,Number,4622
+Vehicles Licensed for the First Time,2021M12,Secondhand_Private_Cars,Number,3385
+Vehicles Licensed for the First Time,2021M12,Secondhand_Goods_Vehicles,Number,580
+Vehicles Licensed for the First Time,2021M12,Secondhand_Tractors,Number,196
+Vehicles Licensed for the First Time,2021M12,Secondhand_Other_Vehicles,Number,332
+Vehicles Licensed for the First Time,2021M12,Secondhand_Motor_Cycles,Number,129
+,,Regs_For_Year,,468674
+Vehicles Licensed for the First Time,2022M01,All_Vehicles,Number,23779
+Vehicles Licensed for the First Time,2022M01,New_Vehicles,Number,18706
+Vehicles Licensed for the First Time,2022M01,New_Private_Cars,Number,15814
+Vehicles Licensed for the First Time,2022M01,New Goods Vehicles,Number,1728
+Vehicles Licensed for the First Time,2022M01,New_Tractors,Number,252
+Vehicles Licensed for the First Time,2022M01,New Motor_Cycles,Number,274
+Vehicles Licensed for the First Time,2022M01,New_Exempt_Vehicles,Number,518
+Vehicles Licensed for the First Time,2022M01,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,120
+Vehicles Licensed for the First Time,2022M01,Secondhand_Vehicles,Number,5073
+Vehicles Licensed for the First Time,2022M01,Secondhand_Private_Cars,Number,3686
+Vehicles Licensed for the First Time,2022M01,Secondhand_Goods_Vehicles,Number,640
+Vehicles Licensed for the First Time,2022M01,Secondhand_Tractors,Number,193
+Vehicles Licensed for the First Time,2022M01,Secondhand_Other_Vehicles,Number,362
+Vehicles Licensed for the First Time,2022M01,Secondhand_Motor_Cycles,Number,192
+Vehicles Licensed for the First Time,2022M02,All_Vehicles,Number,23162
+Vehicles Licensed for the First Time,2022M02,New_Vehicles,Number,17638
+Vehicles Licensed for the First Time,2022M02,New_Private_Cars,Number,13643
+Vehicles Licensed for the First Time,2022M02,New Goods Vehicles,Number,2717
+Vehicles Licensed for the First Time,2022M02,New_Tractors,Number,232
+Vehicles Licensed for the First Time,2022M02,New Motor_Cycles,Number,294
+Vehicles Licensed for the First Time,2022M02,New_Exempt_Vehicles,Number,611
+Vehicles Licensed for the First Time,2022M02,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,141
+Vehicles Licensed for the First Time,2022M02,Secondhand_Vehicles,Number,5524
+Vehicles Licensed for the First Time,2022M02,Secondhand_Private_Cars,Number,3929
+Vehicles Licensed for the First Time,2022M02,Secondhand_Goods_Vehicles,Number,711
+Vehicles Licensed for the First Time,2022M02,Secondhand_Tractors,Number,233
+Vehicles Licensed for the First Time,2022M02,Secondhand_Other_Vehicles,Number,452
+Vehicles Licensed for the First Time,2022M02,Secondhand_Motor_Cycles,Number,199
+Vehicles Licensed for the First Time,2022M03,All_Vehicles,Number,21144
+Vehicles Licensed for the First Time,2022M03,New_Vehicles,Number,15585
+Vehicles Licensed for the First Time,2022M03,New_Private_Cars,Number,11872
+Vehicles Licensed for the First Time,2022M03,New Goods Vehicles,Number,2410
+Vehicles Licensed for the First Time,2022M03,New_Tractors,Number,244
+Vehicles Licensed for the First Time,2022M03,New Motor_Cycles,Number,310
+Vehicles Licensed for the First Time,2022M03,New_Exempt_Vehicles,Number,601
+Vehicles Licensed for the First Time,2022M03,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,148
+Vehicles Licensed for the First Time,2022M03,Secondhand_Vehicles,Number,5559
+Vehicles Licensed for the First Time,2022M03,Secondhand_Private_Cars,Number,3902
+Vehicles Licensed for the First Time,2022M03,Secondhand_Goods_Vehicles,Number,747
+Vehicles Licensed for the First Time,2022M03,Secondhand_Tractors,Number,203
+Vehicles Licensed for the First Time,2022M03,Secondhand_Other_Vehicles,Number,448
+Vehicles Licensed for the First Time,2022M03,Secondhand_Motor_Cycles,Number,259
+Vehicles Licensed for the First Time,2022M04,All_Vehicles,Number,18434
+Vehicles Licensed for the First Time,2022M04,New_Vehicles,Number,13033
+Vehicles Licensed for the First Time,2022M04,New_Private_Cars,Number,10045
+Vehicles Licensed for the First Time,2022M04,New Goods Vehicles,Number,1851
+Vehicles Licensed for the First Time,2022M04,New_Tractors,Number,205
+Vehicles Licensed for the First Time,2022M04,New Motor_Cycles,Number,265
+Vehicles Licensed for the First Time,2022M04,New_Exempt_Vehicles,Number,503
+Vehicles Licensed for the First Time,2022M04,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,164
+Vehicles Licensed for the First Time,2022M04,Secondhand_Vehicles,Number,5401
+Vehicles Licensed for the First Time,2022M04,Secondhand_Private_Cars,Number,3770
+Vehicles Licensed for the First Time,2022M04,Secondhand_Goods_Vehicles,Number,655
+Vehicles Licensed for the First Time,2022M04,Secondhand_Tractors,Number,177
+Vehicles Licensed for the First Time,2022M04,Secondhand_Other_Vehicles,Number,471
+Vehicles Licensed for the First Time,2022M04,Secondhand_Motor_Cycles,Number,328
+Vehicles Licensed for the First Time,2022M05,All_Vehicles,Number,16376
+Vehicles Licensed for the First Time,2022M05,New_Vehicles,Number,10468
+Vehicles Licensed for the First Time,2022M05,New_Private_Cars,Number,7120
+Vehicles Licensed for the First Time,2022M05,New Goods Vehicles,Number,2212
+Vehicles Licensed for the First Time,2022M05,New_Tractors,Number,288
+Vehicles Licensed for the First Time,2022M05,New Motor_Cycles,Number,280
+Vehicles Licensed for the First Time,2022M05,New_Exempt_Vehicles,Number,410
+Vehicles Licensed for the First Time,2022M05,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,158
+Vehicles Licensed for the First Time,2022M05,Secondhand_Vehicles,Number,5908
+Vehicles Licensed for the First Time,2022M05,Secondhand_Private_Cars,Number,4023
+Vehicles Licensed for the First Time,2022M05,Secondhand_Goods_Vehicles,Number,709
+Vehicles Licensed for the First Time,2022M05,Secondhand_Tractors,Number,247
+Vehicles Licensed for the First Time,2022M05,Secondhand_Other_Vehicles,Number,550
+Vehicles Licensed for the First Time,2022M05,Secondhand_Motor_Cycles,Number,379
+Vehicles Licensed for the First Time,2022M06,All_Vehicles,Number,11744
+Vehicles Licensed for the First Time,2022M06,New_Vehicles,Number,6092
+Vehicles Licensed for the First Time,2022M06,New_Private_Cars,Number,3774
+Vehicles Licensed for the First Time,2022M06,New Goods Vehicles,Number,1604
+Vehicles Licensed for the First Time,2022M06,New_Tractors,Number,187
+Vehicles Licensed for the First Time,2022M06,New Motor_Cycles,Number,202
+Vehicles Licensed for the First Time,2022M06,New_Exempt_Vehicles,Number,232
+Vehicles Licensed for the First Time,2022M06,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,93
+Vehicles Licensed for the First Time,2022M06,Secondhand_Vehicles,Number,5652
+Vehicles Licensed for the First Time,2022M06,Secondhand_Private_Cars,Number,3944
+Vehicles Licensed for the First Time,2022M06,Secondhand_Goods_Vehicles,Number,677
+Vehicles Licensed for the First Time,2022M06,Secondhand_Tractors,Number,193
+Vehicles Licensed for the First Time,2022M06,Secondhand_Other_Vehicles,Number,526
+Vehicles Licensed for the First Time,2022M06,Secondhand_Motor_Cycles,Number,312
+Vehicles Licensed for the First Time,2022M07,All_Vehicles,Number,24111
+Vehicles Licensed for the First Time,2022M07,New_Vehicles,Number,18504
+Vehicles Licensed for the First Time,2022M07,New_Private_Cars,Number,15078
+Vehicles Licensed for the First Time,2022M07,New Goods Vehicles,Number,1800
+Vehicles Licensed for the First Time,2022M07,New_Tractors,Number,254
+Vehicles Licensed for the First Time,2022M07,New Motor_Cycles,Number,369
+Vehicles Licensed for the First Time,2022M07,New_Exempt_Vehicles,Number,832
+Vehicles Licensed for the First Time,2022M07,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,171
+Vehicles Licensed for the First Time,2022M07,Secondhand_Vehicles,Number,5607
+Vehicles Licensed for the First Time,2022M07,Secondhand_Private_Cars,Number,4118
+Vehicles Licensed for the First Time,2022M07,Secondhand_Goods_Vehicles,Number,600
+Vehicles Licensed for the First Time,2022M07,Secondhand_Tractors,Number,184
+Vehicles Licensed for the First Time,2022M07,Secondhand_Other_Vehicles,Number,448
+Vehicles Licensed for the First Time,2022M07,Secondhand_Motor_Cycles,Number,257
+Vehicles Licensed for the First Time,2022M08,All_Vehicles,Number,18236
+Vehicles Licensed for the First Time,2022M08,New_Vehicles,Number,12258
+Vehicles Licensed for the First Time,2022M08,New_Private_Cars,Number,8942
+Vehicles Licensed for the First Time,2022M08,New Goods Vehicles,Number,2066
+Vehicles Licensed for the First Time,2022M08,New_Tractors,Number,183
+Vehicles Licensed for the First Time,2022M08,New Motor_Cycles,Number,308
+Vehicles Licensed for the First Time,2022M08,New_Exempt_Vehicles,Number,631
+Vehicles Licensed for the First Time,2022M08,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,128
+Vehicles Licensed for the First Time,2022M08,Secondhand_Vehicles,Number,5978
+Vehicles Licensed for the First Time,2022M08,Secondhand_Private_Cars,Number,4390
+Vehicles Licensed for the First Time,2022M08,Secondhand_Goods_Vehicles,Number,613
+Vehicles Licensed for the First Time,2022M08,Secondhand_Tractors,Number,221
+Vehicles Licensed for the First Time,2022M08,Secondhand_Other_Vehicles,Number,491
+Vehicles Licensed for the First Time,2022M08,Secondhand_Motor_Cycles,Number,263
+Vehicles Licensed for the First Time,2022M09,All_Vehicles,Number,16750
+Vehicles Licensed for the First Time,2022M09,New_Vehicles,Number,10788
+Vehicles Licensed for the First Time,2022M09,New_Private_Cars,Number,7315
+Vehicles Licensed for the First Time,2022M09,New Goods Vehicles,Number,2450
+Vehicles Licensed for the First Time,2022M09,New_Tractors,Number,186
+Vehicles Licensed for the First Time,2022M09,New Motor_Cycles,Number,217
+Vehicles Licensed for the First Time,2022M09,New_Exempt_Vehicles,Number,507
+Vehicles Licensed for the First Time,2022M09,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,113
+Vehicles Licensed for the First Time,2022M09,Secondhand_Vehicles,Number,5962
+Vehicles Licensed for the First Time,2022M09,Secondhand_Private_Cars,Number,4378
+Vehicles Licensed for the First Time,2022M09,Secondhand_Goods_Vehicles,Number,669
+Vehicles Licensed for the First Time,2022M09,Secondhand_Tractors,Number,157
+Vehicles Licensed for the First Time,2022M09,Secondhand_Other_Vehicles,Number,499
+Vehicles Licensed for the First Time,2022M09,Secondhand_Motor_Cycles,Number,259
+Vehicles Licensed for the First Time,2022M10,All_Vehicles,Number,12687
+Vehicles Licensed for the First Time,2022M10,New_Vehicles,Number,7399
+Vehicles Licensed for the First Time,2022M10,New_Private_Cars,Number,4527
+Vehicles Licensed for the First Time,2022M10,New Goods Vehicles,Number,2141
+Vehicles Licensed for the First Time,2022M10,New_Tractors,Number,146
+Vehicles Licensed for the First Time,2022M10,New Motor_Cycles,Number,174
+Vehicles Licensed for the First Time,2022M10,New_Exempt_Vehicles,Number,333
+Vehicles Licensed for the First Time,2022M10,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,78
+Vehicles Licensed for the First Time,2022M10,Secondhand_Vehicles,Number,5288
+Vehicles Licensed for the First Time,2022M10,Secondhand_Private_Cars,Number,3802
+Vehicles Licensed for the First Time,2022M10,Secondhand_Goods_Vehicles,Number,686
+Vehicles Licensed for the First Time,2022M10,Secondhand_Tractors,Number,181
+Vehicles Licensed for the First Time,2022M10,Secondhand_Other_Vehicles,Number,394
+Vehicles Licensed for the First Time,2022M10,Secondhand_Motor_Cycles,Number,225
+Vehicles Licensed for the First Time,2022M11,All_Vehicles,Number,10169
+Vehicles Licensed for the First Time,2022M11,New_Vehicles,Number,4737
+Vehicles Licensed for the First Time,2022M11,New_Private_Cars,Number,2353
+Vehicles Licensed for the First Time,2022M11,New Goods Vehicles,Number,1817
+Vehicles Licensed for the First Time,2022M11,New_Tractors,Number,136
+Vehicles Licensed for the First Time,2022M11,New Motor_Cycles,Number,126
+Vehicles Licensed for the First Time,2022M11,New_Exempt_Vehicles,Number,224
+Vehicles Licensed for the First Time,2022M11,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,81
+Vehicles Licensed for the First Time,2022M11,Secondhand_Vehicles,Number,5432
+Vehicles Licensed for the First Time,2022M11,Secondhand_Private_Cars,Number,3739
+Vehicles Licensed for the First Time,2022M11,Secondhand_Goods_Vehicles,Number,783
+Vehicles Licensed for the First Time,2022M11,Secondhand_Tractors,Number,222
+Vehicles Licensed for the First Time,2022M11,Secondhand_Other_Vehicles,Number,454
+Vehicles Licensed for the First Time,2022M11,Secondhand_Motor_Cycles,Number,234
+Vehicles Licensed for the First Time,2022M12,All_Vehicles,Number,6109
+Vehicles Licensed for the First Time,2022M12,New_Vehicles,Number,2040
+Vehicles Licensed for the First Time,2022M12,New_Private_Cars,Number,866
+Vehicles Licensed for the First Time,2022M12,New Goods Vehicles,Number,859
+Vehicles Licensed for the First Time,2022M12,New_Tractors,Number,55
+Vehicles Licensed for the First Time,2022M12,New Motor_Cycles,Number,52
+Vehicles Licensed for the First Time,2022M12,New_Exempt_Vehicles,Number,132
+Vehicles Licensed for the First Time,2022M12,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,76
+Vehicles Licensed for the First Time,2022M12,Secondhand_Vehicles,Number,4069
+Vehicles Licensed for the First Time,2022M12,Secondhand_Private_Cars,Number,2886
+Vehicles Licensed for the First Time,2022M12,Secondhand_Goods_Vehicles,Number,573
+Vehicles Licensed for the First Time,2022M12,Secondhand_Tractors,Number,170
+Vehicles Licensed for the First Time,2022M12,Secondhand_Other_Vehicles,Number,304
+Vehicles Licensed for the First Time,2022M12,Secondhand_Motor_Cycles,Number,136
+,,Regs_For_Year,,405402
+Vehicles Licensed for the First Time,2023M01,All_Vehicles,Number,25003
+Vehicles Licensed for the First Time,2023M01,New_Vehicles,Number,20303
+Vehicles Licensed for the First Time,2023M01,New_Private_Cars,Number,16787
+Vehicles Licensed for the First Time,2023M01,New Goods Vehicles,Number,2192
+Vehicles Licensed for the First Time,2023M01,New_Tractors,Number,296
+Vehicles Licensed for the First Time,2023M01,New Motor_Cycles,Number,282
+Vehicles Licensed for the First Time,2023M01,New_Exempt_Vehicles,Number,602
+Vehicles Licensed for the First Time,2023M01,"New public service vehicles, heavy agricultural and plant machinery and vehicles (NEC)",Number,144
+Vehicles Licensed for the First Time,2023M01,Secondhand_Vehicles,Number,4700
+Vehicles Licensed for the First Time,2023M01,Secondhand_Private_Cars,Number,3362
+Vehicles Licensed for the First Time,2023M01,Secondhand_Goods_Vehicles,Number,634
+Vehicles Licensed for the First Time,2023M01,Secondhand_Tractors,Number,193
+Vehicles Licensed for the First Time,2023M01,Secondhand_Other_Vehicles,Number,358
+Vehicles Licensed for the First Time,2023M01,Secondhand_Motor_Cycles,Number,153
+,,Regs_For_Year,,25003
